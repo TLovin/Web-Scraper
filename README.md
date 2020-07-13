@@ -1,2 +1,2 @@
 # Web-Scraper
-Web scraper in progress. Based on BeautifulSoup, pandas and sentiment analysis.
+Scrapes webpages in html for one or more webpages simultaneously. Scraped data is written to a txt file.
